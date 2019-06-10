@@ -1,0 +1,7 @@
+[package]
+name = "abs1"
+version = "0.1.0"
+authors = ["Junichiro Takagi <t.junichiro@gmail.com>"]
+edition = "2018"
+
+[dependencies]
