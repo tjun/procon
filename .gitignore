@@ -1,2 +1,2 @@
 *.out
-rust-practice/*/target
+**/target
